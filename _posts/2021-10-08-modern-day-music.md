@@ -15,7 +15,11 @@ This decade of music has brought about even more genres of music, artists and ab
 
 Photo credit - <https://bazzi.fandom.com/wiki/Sober>
 
-This ep cover is from a song released by Bazzi in 2017. The cover only features text and a water droplet outline which indicates minimalism and the focus on the words on the cover. With the title of this single being ‘sober’, the use of the white indicates a sense of purity and clean which is highlighting the name of the song as well as making the main focus be on becoming sober and having no distractions. The use of a sans serif font with all capitals makes the words stand out and gives an overall sense of well roundedness and success in what has been achieved.  In order for the song to hold the power it does with the title, there has to be an appropriate representation of what the meaning of the song is all about and the cover art is where the audience will get the most understanding of the type of music and the type of song.  
+This ep cover is from a song released by Bazzi in 2017. The cover only features text and a water droplet outline which indicates minimalism and the focus on the words on the cover. With the title of this single being ‘sober’, the use of the white indicates a sense of purity and clean which is highlighting the name of the song as well as making the main focus be on becoming sober and having no distractions.
+
+### Test Heading
+
+ The use of a sans serif font with all capitals makes the words stand out and gives an overall sense of well roundedness and success in what has been achieved.  In order for the song to hold the power it does with the title, there has to be an appropriate representation of what the meaning of the song is all about and the cover art is where the audience will get the most understanding of the type of music and the type of song.  
 
 # Come out and play - Billie Eilish
 
