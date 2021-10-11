@@ -9,7 +9,7 @@ comments: false
 ---
 This decade of music has brought about even more genres of music, artists and abilities. With the rise of social media it has meant that people who are new to music and being an artist are able to get their music out to the world and shared on multiple different platforms. 
 
-# Sober - Bazzi
+## Sober - Bazzi
 
 ![](../uploads/sober.webp "Sober - Bazzi (2017)")
 
