@@ -11,3 +11,6 @@ favicon: ../uploads/logo.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
+items:
+  - name: About Me
+    siteurl: /aboutme/
